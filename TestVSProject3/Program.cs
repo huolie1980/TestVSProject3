@@ -10,6 +10,7 @@ namespace TestVSProject3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Test");
         }
     }
 }
